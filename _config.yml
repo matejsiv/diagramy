@@ -1,0 +1,9 @@
+# Site settings
+title: My New Blog
+author:
+  name: Your Name
+  email: your-email@example.com
+description: "A site built with Jekyll and hosted on GitHub Pages."
+
+# Build settings
+remote_theme: jekyll/minima
