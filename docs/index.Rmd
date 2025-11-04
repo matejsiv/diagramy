@@ -8,12 +8,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<button>🐝<strong>#</strong>" 1"</button>
-<button>🐝<strong>#</strong>" 2"</button>
-<button>🐝<strong>#</strong>" 3"</button>
-<button>🐝<strong>#</strong>" 4"</button>
-<button>🐝<strong>#</strong>" 5"</button>
-<button>🐝<strong>#</strong>" 6"</button>
-<button>🐝<strong>#</strong>" 7"</button>
-<button>🐝<strong>#</strong>" 8"</button>
-<button>🐝<strong>#</strong>" 9"</button>
+<button>🐝<strong> 1</strong></button>
+<button>🐝<strong> 2</strong></button>
+<button>🐝<strong> 3</strong></button>
+<button>🐝<strong> 4</strong></button>
+<button>🐝<strong> 5</strong></button>
+<button>🐝<strong> 6</strong></button>
+<button>🐝<strong> 7</strong></button>
+<button>🐝<strong> 8</strong></button>
+<button>🐝<strong> 9</strong></button>
+<button>🐝<strong> 10</strong></button>
+<button>🐝<strong> 11</strong></button>
+<button>🐝<strong> 12</strong></button>
+<button>🐝<strong>13</strong></button>
+<button>🐝<strong>14</strong></button>
+<button>🐝<strong>15</strong></button>
+<button>🐝<strong>16</strong></button>
+<button>🐝<strong>17</strong></button>
+<button>🐝<strong>18</strong></button>
+<button>🐝<strong>19</strong></button>
