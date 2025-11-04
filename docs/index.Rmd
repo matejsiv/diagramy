@@ -1,7 +1,6 @@
 ---
-title: "Včela"
+title: "🐝"
 author: "Matej Sivcak"
-date: "2025-11-04"
 output: html_document
 ---
 
@@ -9,12 +8,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<button>#201</button>
-<button>202</button>
-<button>203</button>
-<button>204</button>
-<button>205</button>
-<button>206</button>
-<button>207</button>
-<button>208</button>
-<button>209</button>
+<button>🐝<strong>#</strong>" 1"</button>
+<button>🐝<strong>#</strong>" 2"</button>
+<button>🐝<strong>#</strong>" 3"</button>
+<button>🐝<strong>#</strong>" 4"</button>
+<button>🐝<strong>#</strong>" 5"</button>
+<button>🐝<strong>#</strong>" 6"</button>
+<button>🐝<strong>#</strong>" 7"</button>
+<button>🐝<strong>#</strong>" 8"</button>
+<button>🐝<strong>#</strong>" 9"</button>
